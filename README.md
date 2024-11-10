@@ -1,1 +1,1 @@
-EduStake begins!!!
+EduStake is a stakinf cum exchange platform

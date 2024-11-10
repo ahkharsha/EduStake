@@ -49,7 +49,7 @@ const HeroSection = ({ poolDetails, addTokenToMetaMask }) => {
           <div className="col-12 col-lg-7 col-xl-6">
             <div className="hero__content hero__content--first">
               <h1 className="hero__title">
-                <strong>Crypto King</strong> <br />
+                <strong>EduStake</strong> <br />
                 Best return on your investment
               </h1>
               <div className="hero__btns">

@@ -25,7 +25,7 @@ const Token = ({ token }) => {
           />
         </div>
         <p className="invest__text">
-          Stake Token stats Crypto King Best return on your investment
+          Stake Token stats EduStake Best return on your investment
         </p>
         <table className="invest__table">
           <thead>

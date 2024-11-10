@@ -48,7 +48,7 @@ const PoolsModel = ({
             </button>
             <h4 className="modal__title">Invest</h4>
             <p className="modal__text">
-              Welcome to Crypto King, stake your{" "}
+              Welcome to EduStake, stake your{" "}
               {selectedPool?.depositToken.name} token to eran reward .
             </p>
             <div className="modal__form">
